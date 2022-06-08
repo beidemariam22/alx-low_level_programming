@@ -3,19 +3,16 @@ int main(void)
 
 {
               
-	        	char *sh = "_putchar";
+     char *sh = "_putchar";
 
-			while (*sh)
+      while (*sh)
+            {
+	      _putchar(*sh);
 
-					{
+               sh++;
+             }
+             _putchar('\n');
 
-		          			_putchar(*sh);
-
-                                                    										sh++;
-                                    											}
-
-			         	_putchar('\n');
-
-					return (0);
+	     return (0);
 
 }
