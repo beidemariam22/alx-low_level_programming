@@ -1,1 +1,1 @@
-this is for 0x05
+Pointer array and strings
