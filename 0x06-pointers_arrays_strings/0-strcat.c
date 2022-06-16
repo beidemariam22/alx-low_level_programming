@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * *_strcat - check the code for Holberton School students.
+ * *_strcat - check the code.
  *@dest: destination
  *@src: source
  * Return: pointer to the destination
